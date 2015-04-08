@@ -1,0 +1,40 @@
+PS Assets Notes
+
+Doc width: 360px
+
+Nav: 360px x 40px
+Menu: 40px x 40px
+Hero: 360px x 350px
+
+Fonts:
+Source Sans Pro:
+    H1: Bold 20px
+    H2: Reg 18 px
+    H3, names: Bold 14px
+    p: Reg 13px
+    grid text: Semi Bold 10.85px
+    
+Droid Serif:
+    Jakarta: Ital 13px
+    Titles (CEO): Ital 12px
+    Captions: Reg 12px
+    Btn text: Ital 11px
+    Grid btns: Ital 8.33px
+    
+Thirsty Rough Reg?
+
+Colors:
+    acd373: Nav, green text, green section bgs, grid btns
+    9abd67: Main green bg, hiring bg, form fields, btm nav
+    89a85c: menu green
+    f7f7f7: White bgs, white text
+    ebebeb: light gray bgs
+    454545: dark gray text
+    
+Nav Shadow:
+    6% opacity black
+    120 degrees
+    distance 2px
+    size 4px
+
+    
