@@ -1,0 +1,48 @@
+body {
+    background-color: #f7f7f7;
+    width: 360px;
+    margin: 0 auto;
+    font-family: "Source Sans Pro","Arial","sans-serif";
+    font-size: 13px;
+    /*line-height: 1.45;*/
+    color: #454545;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-style: bold;
+    color: #f7f7f7;
+}
+
+h2 {
+    font-family: "Droid Serif","serif";
+    font-style: italic;
+    font-size: 1.4em;
+    color: #f7f7f7;
+}
+
+h3 {
+    font-size: 1.1em;
+    font-style: bold;
+}
+
+.main {
+    background: #9abd67;
+    background-image: url('images/siluet.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: inline-block;
+    width: 360px;
+    height: 390px;
+    text-align: center;
+}
+
+nav {
+    width: 360px;
+    height: 40px;
+    margin-bottom: 0;
+    height: 2.5em;
+    margin: 0 auto;
+    background: #acd373;
+}
