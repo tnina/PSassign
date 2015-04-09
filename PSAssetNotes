@@ -1,10 +1,13 @@
-PS Assets Notes
+PS ASSET NOTES
 
 Doc width: 360px
 
 Nav: 360px x 40px
 Menu: 40px x 40px
 Hero: 360px x 350px
+
+Section line-height: 18px
+(auto line-height is 1.5 x font size, click on font & look at character pallet/leading)
 
 Fonts:
 Source Sans Pro:
